@@ -1,0 +1,19 @@
+{
+  "name": "coming-soon",
+  "version": "1.0.0",
+  "description": "Temp Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pegasys-Tech/coming-soon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pegasys-Tech/coming-soon/issues"
+  },
+  "homepage": "https://github.com/Pegasys-Tech/coming-soon#readme"
+}
