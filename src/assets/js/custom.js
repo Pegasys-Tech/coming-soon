@@ -25,7 +25,7 @@
 		$("#title").typed({
 			strings: ["Pegasys Technologies", "Coming Soon!"],
 			typeSpeed: 300,
-			backDelay: 900,
+			backDelay: 0,
 			loop: true,
 			cursorChar: "|",
 			contentType: 'html',
