@@ -25,7 +25,7 @@
     count: 2,
     xyScalar: 1,
     zOffset: 40,
-    ambient: '#b7b8b8',
+    ambient: '#929393',
     diffuse: '#bfbfbf',
     speed: 0,
     gravity: 1200,
